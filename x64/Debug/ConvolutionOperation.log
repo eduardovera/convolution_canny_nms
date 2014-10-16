@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\eduardo\documents\visual studio 2013\projects\convolutionoperation\convolutionoperation\nms.h(55): warning C4244: '=' : conversion from 'const double' to 'int', possible loss of data
+  ConvolutionOperation.vcxproj -> C:\Users\Eduardo\documents\visual studio 2013\Projects\ConvolutionOperation\x64\Debug\ConvolutionOperation.exe
